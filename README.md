@@ -29,7 +29,7 @@ This ETL pipeline project extracts song, artist, and album data from Spotify pla
 
 ## Architecture
 
-![Spotify ETL Pipeline Architecture](/images/Spotify_ETL_pipeline_architectu.jpg)
+![Spotify ETL Pipeline Architecture](/images/Spotify_ETL_pipeline_architecture_diagram.jpg)
 
 ### Workflow Summary
 
